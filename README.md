@@ -50,19 +50,36 @@ de IA generativa com foco em segurança e arquitetura limpa.
 
 <div align="center">
 
-<a href="https://github.com/ViniciusCarvalho-V-B/RootsSky-Landing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=RootsSky-Landing&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/ViniciusCarvalho-V-B/Fyleon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=Fyleon&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB&cache_seconds=1800"/>
-</a>
-<br/>
-<a href="https://github.com/ViniciusCarvalho-V-B/RootsSkyMarket">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=RootsSkyMarket&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB&cache_seconds=1800"/>
-</a>
-<a href="https://github.com/ViniciusCarvalho-V-B/Projeto-Reserva-RecantoCamargo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=Projeto-Reserva-RecantoCamargo&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB&cache_seconds=1800"/>
-</a>
+<table>
+<tr>
+<td width="50%">
+
+**[RootsSky](https://github.com/ViniciusCarvalho-V-B/RootsSky-Landing)**
+E-commerce full-stack em produção real (Next.js, Supabase, MercadoPago)
+
+</td>
+<td width="50%">
+
+**[Fyleon](https://github.com/ViniciusCarvalho-V-B/Fyleon)**
+Agente de IA que organiza arquivos com aprovação humana obrigatória
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[RootsSkyMarket](https://github.com/ViniciusCarvalho-V-B/RootsSkyMarket)**
+Motor de economia dinâmica assíncrono com CI/CD
+
+</td>
+<td width="50%">
+
+**[Recanto Camargo](https://github.com/ViniciusCarvalho-V-B/Projeto-Reserva-RecantoCamargo)**
+Sistema full-stack com cliente real, do requisito ao deploy
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -72,12 +89,12 @@ de IA generativa com foco em segurança e arquitetura limpa.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ViniciusCarvalho-V-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ViniciusCarvalho-V-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCarvalho-V-B&theme=tokyonight&hide_border=true&background=0B1120&stroke=1E3A8A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCarvalho-V-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&langs_count=8&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCarvalho-V-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120" height="165"/>
 
 </div>
 
