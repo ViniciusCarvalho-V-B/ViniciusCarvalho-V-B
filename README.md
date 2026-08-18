@@ -89,12 +89,15 @@ Sistema full-stack com cliente real, do requisito ao deploy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ViniciusCarvalho-V-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCarvalho-V-B&theme=tokyonight&hide_border=true&background=0B1120&stroke=1E3A8A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCarvalho-V-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120" height="165"/>
+<img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-1E3A8A?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1E3A8A?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-1E3A8A?style=flat-square&logo=html5&logoColor=white"/>
 
 </div>
 
