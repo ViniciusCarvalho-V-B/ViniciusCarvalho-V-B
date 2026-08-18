@@ -1,16 +1,90 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ViniciusCarvalho-V-B/ViniciusCarvalho-V-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:2563EB&height=180&section=header&text=Vinicius%20Carvalho&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20ADS%20-%20FATEC&descAlignY=58&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/vinicius-barbosa-922557363/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:viniciuscvb2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br/>
+
+### `> sobre`
+
+```
+Graduando em Análise e Desenvolvimento de Sistemas (FATEC Guaratinguetá).
+Construo sistemas full-stack em produção real e estudo aplicação prática
+de IA generativa com foco em segurança e arquitetura limpa.
+```
+
+<br/>
+
+### `> stack`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-0B1120?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0B1120?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-0B1120?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B1120?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-16213E?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-16213E?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-16213E?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-16213E?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8"/>
+
+</div>
+
+<br/>
+
+### `> projetos em destaque`
+
+<div align="center">
+
+<a href="https://github.com/ViniciusCarvalho-V-B/RootsSky-Landing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=RootsSky-Landing&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB"/>
+</a>
+<a href="https://github.com/ViniciusCarvalho-V-B/Fyleon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=Fyleon&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB"/>
+</a>
+<br/>
+<a href="https://github.com/ViniciusCarvalho-V-B/RootsSkyMarket">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=RootsSkyMarket&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB"/>
+</a>
+<a href="https://github.com/ViniciusCarvalho-V-B/Projeto-Reserva-RecantoCamargo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusCarvalho-V-B&repo=Projeto-Reserva-RecantoCamargo&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB"/>
+</a>
+
+</div>
+
+<br/>
+
+### `> atividade`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ViniciusCarvalho-V-B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&icon_color=2563EB&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCarvalho-V-B&theme=tokyonight&hide_border=true&background=0B1120&stroke=1E3A8A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCarvalho-V-B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=60A5FA&text_color=CBD5E1&langs_count=8" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1120&height=100&section=footer"/>
+
+</div>
