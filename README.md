@@ -93,11 +93,29 @@ Sistema full-stack com cliente real, do requisito ao deploy
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=ViniciusCarvalho-V-B&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusCarvalho-V-B&theme=react-dark&bg_color=0B1120&color=60A5FA&line=2563EB&point=E5E7EB&hide_border=true" width="100%"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-1E3A8A?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1E3A8A?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML%2FCSS-1E3A8A?style=flat-square&logo=html5&logoColor=white"/>
+
+</div>
+
+<br/>
+
+### `> contribution snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ViniciusCarvalho-V-B/ViniciusCarvalho-V-B/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
