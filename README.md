@@ -89,13 +89,9 @@ Sistema full-stack com cliente real, do requisito ao deploy
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusCarvalho-V-B&theme=tokyonight&hide_border=true&background=0B1120&stroke=1E3A8A&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusCarvalho-V-B&theme=react-dark&bg_color=0B1120&color=60A5FA&line=2563EB&point=E5E7EB&hide_border=true" width="100%"/>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ViniciusCarvalho-V-B&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusCarvalho-V-B&theme=react-dark&bg_color=0B1120&color=60A5FA&line=2563EB&point=E5E7EB&hide_border=true" width="100%"/>
 
