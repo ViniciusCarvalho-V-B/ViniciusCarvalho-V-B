@@ -74,7 +74,7 @@ Motor de economia dinâmica assíncrono com CI/CD
 </td>
 <td width="50%">
 
-**[Recanto Camargo](https://github.com/ViniciusCarvalho-V-B/Projeto-Reserva-RecantoCamargo)**
+**[Recanto Camargo](https://github.com/RafaelRizzoo/recanto-camargo)**
 Sistema full-stack com cliente real, do requisito ao deploy
 
 </td>
