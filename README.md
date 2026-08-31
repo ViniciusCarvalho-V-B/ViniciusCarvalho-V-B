@@ -89,7 +89,7 @@ Sistema full-stack com cliente real, do requisito ao deploy
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusCarvalho-V-B&theme=react-dark&bg_color=0B1120&color=60A5FA&line=2563EB&point=E5E7EB&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/ViniciusCarvalho-V-B/ViniciusCarvalho-V-B/output/github-metrics.svg" width="100%"/>
 
 <br/><br/>
 
