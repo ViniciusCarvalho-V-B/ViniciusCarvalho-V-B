@@ -89,7 +89,6 @@ Sistema full-stack com cliente real, do requisito ao deploy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ViniciusCarvalho-V-B/ViniciusCarvalho-V-B/output/github-metrics.svg" width="100%"/>
 
 <br/><br/>
 
