@@ -99,11 +99,6 @@ Sistema full-stack com cliente real, do requisito ao deploy
 <img src="https://img.shields.io/badge/HTML%2FCSS-1E3A8A?style=flat-square&logo=html5&logoColor=white"/>
 
 </div>
-
-<br/>
-
-### `> contribution snake`
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ViniciusCarvalho-V-B/ViniciusCarvalho-V-B/output/github-contribution-grid-snake-dark.svg" width="100%"/>
